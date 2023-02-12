@@ -1,7 +1,7 @@
 Copyright © 2022 CODE OF MELCHIZEDEK, INC. - All Rights Reserved
 You may not use, modify, or distribute this software and associated documentation, configuration, and data files (the
 "Software") to anyone, for any purpose, without prior written permission from CODE OF MELCHIZEDEK, INC.
-The above statement notwithstanding, this copyright notice should not be construedas a limitation on your use of live
+The above statement notwithstanding, this copyright notice should not be construed as a limitation on your use of live
 services provided by CODE OF MELCHIZEDEK, INC. utilizing this code including, but not limited to, the wotsauce.fun
 website and /u/wot-sauce-bot Reddit bot.
 
